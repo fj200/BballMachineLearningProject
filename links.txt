@@ -1,0 +1,7 @@
+https://www.datatechnotes.com/2022/10/feature-selection-example-with-rfecv-in.html
+https://www.ritchieng.com/machinelearning-one-hot-encoding/
+https://stackoverflow.com/questions/51237635/difference-between-standard-scaler-and-minmaxscaler
+https://www.analyticsvidhya.com/blog/2021/05/dealing-with-missing-values-in-python-a-complete-guide/
+https://medium.com/@Kavya2099/optimizing-performance-selectkbest-for-efficient-feature-selection-in-machine-learning-3b635905ed48
+https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html
+https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-93356f9930af
